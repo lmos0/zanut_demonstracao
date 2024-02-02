@@ -1623,6 +1623,14 @@ section {
 
 }
 
+p {
+  text-align: justify;
+}
+
+#just {
+  text-align: justify;
+}
+
 #zanut {
   font-family: 'SimSun';
   color: #e8bc6c;
