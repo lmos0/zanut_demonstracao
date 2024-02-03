@@ -1645,6 +1645,52 @@ p {
   padding-top: 50px;
 }
 
+@media (max-width: 768px) {
+  .artigos {
+    flex-direction: column;
+  }
+}
+
+
+.artigos {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 50px;
+  gap: 20px;
+
+}
+
+
+
+.card {
+  height: 100%;
+}
+
+.btn-primary {
+  background-color: #ffbb38;
+  color: #343a40;
+  shape-margin: 2%;
+
+}
+
+.btn-primary:hover {
+  background-color: #ffd584;
+  color: #343a40;
+
+}
+
+#artigotexto {
+  width: 95%;
+  max-width: 95%;
+  margin: 20px;
+  font-size: 18px;
+
+}
+
+
+
+
 /* https://colorhunt.co/palette/f5f7f8f4ce14495e5745474b
 
 
