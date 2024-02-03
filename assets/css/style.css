@@ -529,7 +529,7 @@ e8bc6c #header .logo a span {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 15px 0;
   overflow: hidden;
 }
 
@@ -1634,6 +1634,10 @@ p {
 #zanut {
   font-family: 'SimSun';
   color: #e8bc6c;
+}
+
+#zap2 {
+  align-items: center;
 }
 
 /* https://colorhunt.co/palette/f5f7f8f4ce14495e5745474b
