@@ -529,7 +529,7 @@ e8bc6c #header .logo a span {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 15px 0;
+  padding: 60px 0;
   overflow: hidden;
 }
 
@@ -1151,7 +1151,7 @@ section {
 --------------------------------------------------------------*/
 .team {
   background: #fff;
-  padding: 60px 0;
+  padding: 0;
 }
 
 .team .member {
@@ -1638,6 +1638,11 @@ p {
 
 #zap2 {
   align-items: center;
+}
+
+#textoapresentacao {
+  font-size: 18px;
+  padding-top: 50px;
 }
 
 /* https://colorhunt.co/palette/f5f7f8f4ce14495e5745474b
