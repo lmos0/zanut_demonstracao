@@ -1595,10 +1595,10 @@ section {
   border-radius: 55px;
   color: white;
   padding: 15px 10px;
-  font-size: 16px;
+  font-size: 20px;
   cursor: pointer;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   transition: background-color 0.3s ease-in-out;
 
